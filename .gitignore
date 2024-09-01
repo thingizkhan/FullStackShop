@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Cache
+.cache/
+
+# Dependency directories
+client/node_modules/
+
+# PEM files
+*.pem
+
+# Key and CSR files
+*.key
+*.csr
+
